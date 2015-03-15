@@ -12,6 +12,8 @@
 	<dict>
 		<key>C861FC00CEE0F6A6BE81FCFF6785FAA78C58EBB3</key>
 		<string>https://github.com/lingoer/SwiftyJSON.git</string>
+		<key>FD40A0705FC54AD467309D7D23F8D68B463BF312</key>
+		<string>https://bitbucket.org/danielasher/storyhacker.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>SwiftyJSON.xcodeproj</string>
@@ -19,6 +21,8 @@
 	<dict>
 		<key>C861FC00CEE0F6A6BE81FCFF6785FAA78C58EBB3</key>
 		<string>../..</string>
+		<key>FD40A0705FC54AD467309D7D23F8D68B463BF312</key>
+		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/lingoer/SwiftyJSON.git</string>
@@ -28,6 +32,14 @@
 	<string>C861FC00CEE0F6A6BE81FCFF6785FAA78C58EBB3</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FD40A0705FC54AD467309D7D23F8D68B463BF312</string>
+			<key>IDESourceControlWCCName</key>
+			<string>..</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
